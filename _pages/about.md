@@ -21,7 +21,9 @@ I'm a third year undergraduate student from [School of Information and Software 
 
 ### Publication
 ✉ Corresponding author.
+
 **Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User**
+
 Xiaolei Wang, Chunxuan Xia, Junyi Li, <u>Fanzhe Meng</u>, Lei Huang, Jinpeng Wang, Wayne Xin Zhao✉ and Ji-Rong Wen
 
 ### Short Bio
