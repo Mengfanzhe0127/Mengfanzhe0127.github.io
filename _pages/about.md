@@ -24,6 +24,6 @@ I'm a third year undergraduate student from [School of Information and Software 
 Xiaolei Wang, Chunxuan Xia, Junyi Li, <u>Fanzhe Meng</u>, Lei Huang, Jinpeng Wang, Wayne Xin Zhao✉ and Ji-Rong Wen
 
 ### Short Bio
-During the first two years of my college life, I was studying Java Web and Service Deployment, which made me familiar with development technologies and the use of cloud servers.
-My scientific research work has experienced two failures, but I don't think this has crushed my interest and courage in researching DL. On the contrary, step-by-step exploration has cultivated my abilities to analyze problems, design experiments and use tools. I believe that proactive scientific research attitude and perseverance can enable me to handle uncertainties in scientific research work.
-🏓: I like playing table tennis and watching football matches.
+- During the first two years of my college life, I was studying Java Web and Service Deployment, which made me also familiar with development technologies and the use of cloud servers.
+- My scientific research work has experienced two failures, but I don't think this has crushed my interest and courage in researching DL. On the contrary, step-by-step exploration has cultivated my abilities to analyze problems, design experiments and use tools. I believe that proactive scientific research attitude and perseverance can enable me to handle uncertainties in scientific research work.
+- 🏓: I like playing table tennis and watching football matches.
