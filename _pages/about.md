@@ -15,7 +15,7 @@ I'm a third year undergraduate student from [School of Information and Software 
 
 📧: **Contact**: 
 - You can find my CV here: [Meng Fanzhe's Curriculum Vitae](../assets/Curriculum_vitae.pdf).
-- [Email](mailto:mengfanzhe16@gmail.com)
+- [Email](mailto:mengfanzhe16@gmail.com): <u>mengfanzhe16@gmail.com</u>
 - [Github](https://github.com/Mengfanzhe0127)
 
 ### Publication
