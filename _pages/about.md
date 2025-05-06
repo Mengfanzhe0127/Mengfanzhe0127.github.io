@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Fanzhe Meng（孟繁哲）"
+excerpt: "Fanzhe Meng（孟繁哲）"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Fanzhe Meng（孟繁哲）
 A third year undergraduate student, UESTC
 
 I'm a third year undergraduate student from [School of Information and Software Engineering](https://sise.uestc.edu.cn/), [University of Electronic Science and Technology of China Chengdu](https://www.uestc.edu.cn/). Previously, I was grateful to be an intern in the [AI Box](http://aibox.ruc.edu.cn/index.htm) laboratory of [Renmin University of China](https://www.ruc.edu.cn/), where I've learned a wealth of knowledge related to LLM, NLP and recommendation systems.
