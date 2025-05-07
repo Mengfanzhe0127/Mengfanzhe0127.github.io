@@ -12,16 +12,15 @@ I'm a third year undergraduate student from [School of Information and Software 
 🔥: **Research**: I explore the application of LLM in the field of CRS (Conversational Recommender System), and my research interest includes Large Language Models, Agent and Recommendation System.
 
 📧: **Contact**: 
-- You can find my CV here: [Meng Fanzhe's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-- [Email](mailto:mengfanzhe16@gmail.com): <u>mengfanzhe16@gmail.com</u>
-- [Github](https://github.com/Mengfanzhe0127)
+- You can find my CV here: [Meng Fanzhe's Curriculum Vitae](../assets/self_curriculum_vitae.pdf).
+- [Email](mengfanzhe16@gmail.com): <u>mengfanzhe16@gmail.com</u>
 
 ### Publication
 ✉ Corresponding author.
 
 **Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User**
 
-Xiaolei Wang, Chunxuan Xia, Junyi Li, <u>Fanzhe Meng</u>, Lei Huang, Jinpeng Wang, Wayne Xin Zhao✉ and Ji-Rong Wen
+Xiaolei Wang, Chunxuan Xia, Junyi Li, <u>Fanzhe Meng</u>, Lei Huang, Jinpeng Wang, Wayne Xin Zhao✉ and Ji-Rong Wen Jan 2025. SIGIR 2025
 
 ### Short Bio
 - During the first two years of my college life, I was studying Java Web and Service Deployment, which made me also familiar with devops technologies and the use of cloud servers.
