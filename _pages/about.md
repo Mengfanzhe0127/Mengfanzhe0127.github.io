@@ -22,6 +22,8 @@ I'm a third year undergraduate student from [School of Information and Software 
 
 Xiaolei Wang, Chunxuan Xia, Junyi Li, <u>Fanzhe Meng</u>, Lei Huang, Jinpeng Wang, Wayne Xin Zhao✉ and Ji-Rong Wen Jan 2025. SIGIR 2025
 
+📖: [PDF](../assets/3726302.3730080.pdf)
+
 ### Short Bio
 - During the first two years of my college life, I was studying Java Web and Service Deployment, which made me also familiar with devops technologies and the use of cloud servers.
 
