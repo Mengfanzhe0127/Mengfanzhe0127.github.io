@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of Information and Software Engineering](https://sise.uestc.edu.cn/), [University of Electronic Science and Technology of China Chengdu](https://www.uestc.edu.cn/). Previously, I was grateful to be an intern in the [AI Box](http://aibox.ruc.edu.cn/index.htm) laboratory of [Renmin University of China](https://www.ruc.edu.cn/), where I've learned a wealth of knowledge related to LLM, NLP and recommendation systems.
+I'm a third year undergraduate student from [School of Information and Software Engineering](https://sise.uestc.edu.cn/), [University of Electronic Science and Technology of China, Chengdu](https://www.uestc.edu.cn/). Previously, I was grateful to be an intern in the [AI Box](http://aibox.ruc.edu.cn/index.htm) laboratory of [Renmin University of China](https://www.ruc.edu.cn/), where I've learned a wealth of knowledge related to LLM, NLP and recommendation systems.
 
 🔥: **Research**: I explore the application of LLM in the field of CRS (Conversational Recommender System), and my research interest includes Large Language Models, Agent and Recommendation System.
 
 📧: **Contact**: 
-- You can find my CV here: [Meng Fanzhe's Curriculum Vitae](../assets/self_curriculum_vitae.pdf).
+- You can find my CV here: [Meng Fanzhe's Curriculum Vitae](../assets/孟繁哲_个人简历_英文.pdf).
 - [Email](mengfanzhe16@gmail.com): <u>mengfanzhe16@gmail.com</u>
 
 ### Publication
